@@ -7,4 +7,4 @@ In this project, 3 different text files that contained text in different languag
 1. Run the command "Pyhon program1.py ."
 
 
-If you would like to know more about this project, click [HERE](DmiObi/NLP/blob/main/N-grams/Ngrams_Narrative.pdf)
+If you would like to know more about this project, click [HERE](/N-grams/Ngrams_Narrative.pdf)
