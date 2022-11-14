@@ -1,4 +1,4 @@
-#Web-Cralwer
+# Web-Cralwer
 
 ## About the project
 The program receives a URL link and finds all links that it can find on the website. Then the program scrabs all the text from those websites using Beautiful Soup 
